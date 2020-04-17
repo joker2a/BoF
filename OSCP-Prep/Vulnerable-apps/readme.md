@@ -1,3 +1,5 @@
+By https://www.vortex.id.au/
+
 The list of applications I used to practice was:
 
 
@@ -10,3 +12,6 @@ Minishare 1.4.1: https://www.exploit-db.com/exploits/636/ – Nothing too much t
 Savant 3.1: https://www.exploit-db.com/exploits/10434/ – Straight up BoF once again, but there is a couple of gotchas on this one where you might need to think outside the box.
 
 WarFTPD 1.6.5: https://www.exploit-db.com/exploits/3570/ – This one is olllllllddddd! I tried running it on Windows 7 with Admin privs, enabling compatibility mode, and a few other tricks but every time it would exit with a WinSock error. I ended up having to run it on Windows XP 32 bit to get it to work.
+
+Dostackbufferoverflowgood: https://github.com/justinsteven/dostackbufferoverflowgood
+
